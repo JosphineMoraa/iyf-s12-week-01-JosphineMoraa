@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Josphine Moraa</title>
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
 
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="about.html" aria-current="page">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Hello!</h2>
+      <p>I’m Josphine, and I’m learning how to build websites.</p>
+      <p>This portfolio is part of my Week 1 web development assignment.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Josphine Moraa</p>
+  </footer>
+</body>
+</html>
