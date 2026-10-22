@@ -42,7 +42,6 @@ File| Purpose
 
     ## Pages
    
-   ## Pages
 
 * [Home](index.html)
 * [About](about.html)
